@@ -8,7 +8,7 @@ class GerenciadorDeImpostoDeRenda {
 	}
 
 	public double getTotal() {
-		return total;
+		return this.total;
 	}
 
 }
